@@ -1,44 +1,110 @@
-# 01 HTML CSS Git: Code Refactor
+# Unit 08 Project 1 Homework: Professional Materials
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+If you are opting out of career services, this is *still a required assignment*. Part of being a web developer means being a part of a community. Having a place to share your projects is *necessary* if you're applying for jobs, but is still *critical* on your journey as a developer.
 
-> Always leave the code you are editing a little cleaner than you found it.
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+## Requirements
 
-## User Story
+* Updated portfolio featuring project 1 and two exemplary homework assignments. 
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+* Update GitHub profile with pinned repositories featuring project 1 and two exemplary assignments. 
 
-## Acceptance Criteria
+* Updated resume
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+* Updated LinkedIn profile
 
-## Review
 
-You are required to submit the following for review:
+## Grading
 
-* The URL of the deployed application.
+| Requirement      | Weight |
+|---               |---     |
+| Portoflio        | 40%    |
+| GitHub Profile   | 40%    |
+| Resume           | 10%    |
+| LinkedIn Profile | 10%    |
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+## Instructions
+
+1. [Updated Portfolio](#updated-portfolio)
+2. [GitHub Profile](#updated-github-profile)
+3. [Updated Resume](#updated-resume)
+4. [Updated LinkedIn](#updated-linkedin)
+
+### Updated Portfolio
+
+Your updated site should have the following content:
+
+* Your name
+
+* Links to your GitHub profile & LinkedIn page as well as your email address and phone number
+
+* A link to a PDF of your resume
+
+* A list of projects. For each project, make sure you have the following:
+
+  * Project title
+
+  * Link to the deployed version
+
+  * Link to the GitHub repository
+
+  * Screenshot of the deployed application
+
+
+#### Design
+
+Unfortunately, this is where it gets a little bit subjective. Your site should look
+"polished." Here are a few guidelines on what that means:
+
+* Mobile-first design
+
+* Choose a color palette for your site so it doesn't just look like
+the default bootstrap theme or an unstyled HTML site.
+
+* Make sure the font size is large enough to read, and that the colors don't cause eye strain.
+
+
+### Updated GitHub Profile 
+
+* If you haven't yet, now is the time to update the following in your GitHub profile: 
+
+    * Profile picture
+
+    * Bio
+
+    * Location
+
+    * Email
+
+    * Link to your portfolio
+
+* Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. 
+
+* Pin some repos that you want to highlight
+
+  * Navigate to [GitHub](https://github.com/) and go to your profile.
+
+  * Click "Customize your pins"
+
+  * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
+
+  * Make sure each of these projects is deployed and add a link to the deployed project in their README files
+
+* Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code. 
+
+
+### Updated Resume 
+
+Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
+
+
+### Updated LinkedIn Profile 
+
+Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
+
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
