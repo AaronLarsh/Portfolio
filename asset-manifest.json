@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.83f10279.chunk.css",
+    "main.js": "/Portfolio/static/js/main.0b7fe573.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.0b7fe573.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
+    "static/js/2.96cc542e.chunk.js": "/Portfolio/static/js/2.96cc542e.chunk.js",
+    "static/js/2.96cc542e.chunk.js.map": "/Portfolio/static/js/2.96cc542e.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.025540ca3b6d23aac721c676c07c7a53.js": "/Portfolio/precache-manifest.025540ca3b6d23aac721c676c07c7a53.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.83f10279.chunk.css.map": "/Portfolio/static/css/main.83f10279.chunk.css.map",
+    "static/js/2.96cc542e.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.96cc542e.chunk.js.LICENSE.txt",
+    "static/media/game gif.gif": "/Portfolio/static/media/game gif.3e5a90d0.gif",
+    "static/media/inQuotationsPic.jpg": "/Portfolio/static/media/inQuotationsPic.45a8daec.jpg",
+    "static/media/App.css": "/Portfolio/static/media/mainheader.35fc4772.jpeg",
+    "static/media/passwordGeneratorWebsite.gif": "/Portfolio/static/media/passwordGeneratorWebsite.6a9708e6.gif",
+    "static/media/profilePic.jpeg": "/Portfolio/static/media/profilePic.b1c03eaf.jpeg",
+    "static/media/resumeIcon.png": "/Portfolio/static/media/resumeIcon.3fba95e6.png",
+    "static/media/workplanner.gif": "/Portfolio/static/media/workplanner.3506fa17.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e440ee5a.js",
+    "static/js/2.96cc542e.chunk.js",
+    "static/css/main.83f10279.chunk.css",
+    "static/js/main.0b7fe573.chunk.js"
+  ]
+}
